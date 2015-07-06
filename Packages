@@ -1,0 +1,10 @@
+Package: com.videahgams.blip
+Version: 0.0.1-10
+Architecture: iphoneos-arm
+Maintainer: Ruairidh Carmichael
+Depends: mobilesubstrate, preferenceloader
+Filename: .//deb_files/com.videahgams.blip_0.0.1-10_iphoneos-arm.deb
+Section: Tweaks
+Description: Play custom sounds when opening an app.
+Author: Ruairidh Carmichael
+Name: Blip
