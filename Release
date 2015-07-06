@@ -1,0 +1,8 @@
+Origin: VideahGams
+Label: VideahGams's Repo
+Suite: stable
+Version: 1.0
+Codename: VideahGams
+Architectures: iphoneos-arm
+Components: main
+Description: I make things sometimes.
