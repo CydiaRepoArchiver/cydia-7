@@ -3,10 +3,10 @@ Version: 0.10.1
 Architecture: iphoneos-arm
 Maintainer: VideahGams <ruairidhcarmichael@live.co.uk>
 Filename: ./Love.deb
-Size: 5059590
-MD5sum: 312c03ad039d0f40ba8836def5a19bc4
-SHA1: ab0f556a221747082121445fb744f174c12c2c70
-SHA256: 573ec9ddf1410bbccac26457d70223894891a9dd2542916e3aa05473d6bc0c00
+Size: 5060386
+MD5sum: 6a916a03ffcc2affa335b03a8fd23d66
+SHA1: 8a1d451a95761e7be39a599f78e0faa31a8a6055
+SHA256: d4aa342aac6215fcfb1a51e807e3133afb60e573f703170a8354b436dc01431e
 Section: LÖVE
 Homepage: http://love2d.org
 Description: Compiled Cydia version of LÖVE.
