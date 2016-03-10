@@ -2,7 +2,7 @@ Package: com.videah.love
 Name: LÖVE
 Version: 0.10.1
 Architecture: iphoneos-arm
-Description: Compiled Cydia version of LÖVE.
+Description: Compiled Cydia version of LÖVE, place .love files in '/var/mobile/Library/Love' instead of the Documents folder.
 Homepage: http://love2d.org
 Maintainer: VideahGams <ruairidhcarmichael@live.co.uk>
 Author: VideahGams <ruairidhcarmichael@live.co.uk>
