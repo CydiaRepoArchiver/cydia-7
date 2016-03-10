@@ -1,0 +1,9 @@
+Package: com.videah.love
+Name: LÖVE 0.10.1
+Version: 0.10.1
+Architecture: iphoneos-arm
+Description: Compiled Cydia version of LÖVE.
+Homepage: http://love2d.org
+Maintainer: VideahGams <ruairidhcarmichael@live.co.uk>
+Author: Jesse Bryan <ruairidhcarmichael@live.co.uk>
+Section: LÖVE

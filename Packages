@@ -1,16 +1,15 @@
-Package: com.videahgams.blip
-Version: 0.0.1-41
+Package: com.videah.love
+Version: 0.10.1
 Architecture: iphoneos-arm
-Maintainer: Ruairidh Carmichael
-Installed-Size: 192
-Depends: mobilesubstrate, preferenceloader
-Filename: ./deb_files/com.videahgams.blip_0.0.1-41_iphoneos-arm.deb
-Size: 63356
-MD5sum: cb191303be7612e04b465aaa1cd7894d
-SHA1: 312ce843feb0e58e9c04499d3f20501eb0986d63
-SHA256: b693e5aa3303fac3ac7f4739ec77794fb9fa8c7d00a19b42f18e665cd18813b5
-Section: Tweaks
-Description: Play custom sounds when opening an app.
-Author: Ruairidh Carmichael
-Name: Blip
+Maintainer: VideahGams <ruairidhcarmichael@live.co.uk>
+Filename: ./Love.deb
+Size: 5059590
+MD5sum: 312c03ad039d0f40ba8836def5a19bc4
+SHA1: ab0f556a221747082121445fb744f174c12c2c70
+SHA256: 573ec9ddf1410bbccac26457d70223894891a9dd2542916e3aa05473d6bc0c00
+Section: LÖVE
+Homepage: http://love2d.org
+Description: Compiled Cydia version of LÖVE.
+Author: Jesse Bryan <ruairidhcarmichael@live.co.uk>
+Name: LÖVE 0.10.1
 
